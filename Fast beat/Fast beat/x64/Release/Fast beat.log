@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\yigua\Desktop\软件\编程\c++\Fast beat\Fast beat\main.cpp(18,72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yigua\Desktop\软件\编程\c++\Fast beat\Fast beat\main.cpp(20,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yigua\Desktop\软件\编程\c++\Fast beat\Fast beat\main.cpp(66,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yigua\Desktop\软件\编程\c++\Fast beat\Fast beat\main.cpp(67,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  6 of 19 functions (31.6%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Fast beat.vcxproj -> C:\Users\yigua\Desktop\软件\编程\c++\Fast beat\x64\Release\Fast beat.exe

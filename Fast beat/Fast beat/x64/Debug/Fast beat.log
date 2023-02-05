@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\yigua\Desktop\软件\编程\c++\Fast beat\Fast beat\main.cpp(18,72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yigua\Desktop\软件\编程\c++\Fast beat\Fast beat\main.cpp(20,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yigua\Desktop\软件\编程\c++\Fast beat\Fast beat\main.cpp(66,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yigua\Desktop\软件\编程\c++\Fast beat\Fast beat\main.cpp(67,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Fast beat.vcxproj -> C:\Users\yigua\Desktop\软件\编程\c++\Fast beat\x64\Debug\Fast beat.exe
